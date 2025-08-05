@@ -58,7 +58,7 @@ sign-language-video-call/
 
 ### 1. Clone Repository
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/akshit7093/Sign-language-translator)
 cd sign-language-video-call
 ```
 
